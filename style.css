@@ -1,0 +1,16 @@
+:root {
+  --main-color: #231f20;
+  --secondary-color: #2b7fff;
+}
+h1 {
+  font-family: 'Play';
+  font-weight: 700;
+  font-size: 140px;
+}
+
+p {
+  font-family: 'Roboto';
+}
+span {
+  color: var(--secondary-color);
+}
